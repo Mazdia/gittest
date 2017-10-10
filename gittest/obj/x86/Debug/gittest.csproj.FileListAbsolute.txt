@@ -1,0 +1,8 @@
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\bin\Debug\gittest.rxtmg
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\bin\Debug\gittest.rxtst
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\bin\Debug\gittest.exe.config
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\bin\Debug\gittest.exe
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\bin\Debug\gittest.pdb
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\obj\x86\Debug\gittest.csprojResolveAssemblyReference.cache
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\obj\x86\Debug\gittest.exe
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\gittest\gittest\obj\x86\Debug\gittest.pdb

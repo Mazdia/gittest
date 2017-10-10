@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.1">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="gittest"
+      id="dae3ff61-b587-4d90-9c79-9c091cb7740b"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="gittest"
+      id="dae3ff61-b587-4d90-9c79-9c091cb7740b"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

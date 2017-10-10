@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# Ranorex Studio 7.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gittest", "gittest\gittest.csproj", "{E066DE2B-777B-41AC-96E0-7B4714BA7965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C2CB1B3-CD7D-400A-93E1-962E24834BCD}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E066DE2B-777B-41AC-96E0-7B4714BA7965}.Debug|x86.Build.0 = Debug|x86
+		{E066DE2B-777B-41AC-96E0-7B4714BA7965}.Debug|x86.ActiveCfg = Debug|x86
+		{E066DE2B-777B-41AC-96E0-7B4714BA7965}.Release|x86.Build.0 = Release|x86
+		{E066DE2B-777B-41AC-96E0-7B4714BA7965}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
